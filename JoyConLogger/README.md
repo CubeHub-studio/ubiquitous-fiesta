@@ -44,5 +44,5 @@ If no controller appears, verify that both Joy-Cons are paired in Windows Blueto
 CubesEPA installs the package listed in `requirements.txt` when the EPA is run:
 
 ```text
-pygame>=2.5.2,<3
+pygame-ce>=2.5.6,<3
 ```
